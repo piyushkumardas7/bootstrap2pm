@@ -1,0 +1,28 @@
+* {
+    margin: 0 !important;
+    box-sizing: border-box !important;
+}
+
+.text-color {
+    color: white !important;
+}
+
+.custom-image {
+    height: 450px;
+    width: 100%;
+}
+
+.carousel-item,
+.carousel-inner {
+    height: 450px;
+}
+
+.image-size {
+    height: 200px;
+    width: 50%;
+}
+.custom-image:hover{
+    transform: scale(1.5);
+    
+
+}
